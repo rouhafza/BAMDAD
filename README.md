@@ -1,5 +1,5 @@
 # BAMDAD
-##Index
+#Index
 1.Add pyhton project in cpanel 
 2.create vitual link:
 source /home/botserv1/virtualenv/PYBOT/3.9/bin/activate && cd /home/botserv1/PYBOT
