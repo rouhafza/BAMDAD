@@ -17,5 +17,6 @@ source /home/botserv1/virtualenv/PYBOT/3.9/bin/activate && cd /home/botserv1/PYB
 7) from main import app as application
 8) کتابخانه های زیر را نصب می کنیم
 9) ُScrapy
-10) flesk 
+10) Flask
+11)  mysql-connector-python 
    
