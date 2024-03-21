@@ -6,3 +6,6 @@ source /home/botserv1/virtualenv/PYBOT/3.9/bin/activate && cd /home/botserv1/PYB
 3.cd public folder / Bot 
 4. create folder Bamdad 
 5.create index.py 
+
+
+1) در CPANEL  در یک پروژه پایتون ساختم 
